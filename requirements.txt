@@ -1,16 +1,14 @@
-Python 3.7 or Higher
-pandas
-mlxtend
-altair
-nltk
-numpy
 streamlit
-pdfkit
+pandas
+numpy
+scikit-learn
+nltk
+joblib
+gensim
+altair
 PyPDF2
-docx
-pytesseract
-Pillow (Python Imaging Library)
 docx2txt
+pytesseract
+Pillow
 textract
 matplotlib
-gensim
