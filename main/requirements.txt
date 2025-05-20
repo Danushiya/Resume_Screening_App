@@ -1,8 +1,10 @@
 streamlit
 pandas
 numpy
-scikit-learn
+python-docx
+pdfminer.six
 nltk
+openpyxl
 joblib
 gensim
 altair
@@ -12,3 +14,5 @@ pytesseract
 Pillow
 textract
 matplotlib
+scikit-learn==1.2.2
+scipy==1.10.1
